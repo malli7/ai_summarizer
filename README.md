@@ -24,7 +24,7 @@
 </ul>
 
 
-<h1>To get started with the AI Summarizer project,Open your web browser and access the application at </h1><button><a>https://joyful-bienenstitch-f41e48.netlify.app/</a></button>
+<h1>To get started with the AI Summarizer project,Open your web browser and access the application at </h1><button><a href="https://aisummarizer-website.netlify.app/">view Website</a></button>
 <br/>
 <h1>Usage</h1>
 <h3>Enter an article link in the input box.</h3>
